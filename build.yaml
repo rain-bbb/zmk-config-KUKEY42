@@ -20,9 +20,9 @@
 ---
 include:
  - board: seeeduino_xiao_ble
-   shield: KUKEY42_R
+   shield: KUKEY42_R rgbled_adapter
    snippet: studio-rpc-usb-uart
  - board: seeeduino_xiao_ble
-   shield: KUKEY42_L
+   shield: KUKEY42_L rgbled_adapter
  - board: seeeduino_xiao_ble
    shield: settings_reset
