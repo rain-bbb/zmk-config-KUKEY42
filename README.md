@@ -30,15 +30,23 @@
 |滑り止めシール|8枚|+GRIPLUS+|
 
 ### ご準備いただく物
-|項目|数量|備考|
-|---|---|---|
-|キースイッチ|42個|ロープロファイル用(Choc V2系)|
-|キーキャップ|42個|17mmピッチ対応品|
-|トラックボールケース|1個|25mm用がおすすめ|
-|トラックボール|1個|サイズはトラックボールケースに合わせてご準備ください|
-|リチウムイオンバッテリー|2個|JST1.25mmコネクタ|
+|項目|数量|備考|商品例|
+|---|---|---|---|
+|キースイッチ|42個|ロープロファイル用(Choc V2系)|[Hades Low-profile Switches](https://www.lofree.co/products/hades-low-profile-pom-switches)|
+|キーキャップ|42個|17mmピッチ対応品|[Kotori Blank(Proto)](https://booth.pm/ja/items/6781056)|
+|トラックボールケース|1個|25mm用がおすすめ|[Kinoyaさん](https://kinoya.booth.pm/items/6064755)|
+|トラックボール|1個|サイズはトラックボールケースに合わせてご準備ください|[M-B25RD](https://www.elecom.co.jp/products/M-B25RD.html)|
+|リチウムイオンバッテリー|2個|厚さ4mm以下、JST1.25mmコネクタ|[Amazonリンク](https://www.amazon.co.jp/dp/B0D4VK35RJ?ref=ppx_yo2ov_dt_b_fed_asin_title)|
 
 ### 組立てに必要な道具
+|項目|備考|
+|---|---|
+|はんだ付けセット|私は[Kz流はんだ付け](https://note.com/kazu_dob/n/nd0040b07fc6e)を見て、自分に必要そうな物を買いました|
+|ドライバー|M2には#1、M1.7には#0が適している|
+|ピンセット||
+|マスキングテープ|はんだ付け時の部品固定に|
+|ペンチ||
+
 
 ## 1. はんだ付け
 ### 1.1. メイン基板
